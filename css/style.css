@@ -147,7 +147,7 @@ a {color: #2997AB; text-decoration: none}
 #container ul li {list-style:none}
 #container ol li {list-style: none}
 
-blockquote {font-family:Georgia, "Times New Roman", Times, serif; font-style: italic; margin: 10px 0}
+blockquote {font-family:Georgia, "Times New Roman", Times, serif;   margin: 10px 0}
 
 /* Lists *
 
