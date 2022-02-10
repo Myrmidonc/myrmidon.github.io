@@ -4486,9 +4486,9 @@ button.close {
   }
 }
 body {
-  background-image: -webkit-linear-gradient(top, #69606d, #aed4dd);
-  background-image: -o-linear-gradient(top, #808080 0, #aed4dd 100%);
-  background-image: linear-gradient(180deg, #000000 0, #aed4dd);
+  background-image: -webkit-linear-gradient(top, #67c1d8, #aed4dd);
+  background-image: -o-linear-gradient(top, #67c1d8 0, #aed4dd 100%);
+  background-image: linear-gradient(180deg, #67c1d8 0, #aed4dd);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#67c1d8",endColorstr="#aed4dd",GradientType=0);
 }
@@ -4524,7 +4524,7 @@ body.white {
 }
 .background-color-layer {
   background-size: cover;
-  opacity: 0.05;
+  opacity: 0.15;
   background-repeat: no-repeat;
   position: absolute;
   z-index: -1;
@@ -4533,7 +4533,7 @@ body.white {
   left: 0;
   right: 0;
   bottom: 30%;
-  box-shadow: inset 0 -0px 0px 0px #000000;
+  box-shadow: inset 0 -40px 60px 10px #67c1d8;
 }
 .card {
   border-radius: 0.25rem;
@@ -4769,6 +4769,13 @@ iframe {
 #main-div {
   height:100%;
 }
-.angxz-logo{
-  width: 200px;
-}
+#sun{
+  text-align: justify;
+  }
+  #shine{
+    text-align: justify;
+  }
+  #hi{
+    text-align: justify;
+  }
+  
