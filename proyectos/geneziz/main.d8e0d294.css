@@ -4486,9 +4486,9 @@ button.close {
   }
 }
 body {
-  background-image: -webkit-linear-gradient(top, #67c1d8, #aed4dd);
-  background-image: -o-linear-gradient(top, #67c1d8 0, #aed4dd 100%);
-  background-image: linear-gradient(180deg, #67c1d8 0, #aed4dd);
+  background-image: -webkit-linear-gradient(top, #c1c1c1, #1c1c1c);
+  background-image: -o-linear-gradient(top, #c1c1c1 0, #1c1c1c 100%);
+  background-image: linear-gradient(180deg, #c1c1c1 0, #1c1c1c);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#67c1d8",endColorstr="#aed4dd",GradientType=0);
 }
@@ -4569,9 +4569,9 @@ body.white {
 }
 .btn-default,
 .btn-default:hover {
-  background-image: -webkit-linear-gradient(left, #f2f2f2, #e6e6e6);
-  background-image: -o-linear-gradient(left, #f2f2f2 0, #e6e6e6 100%);
-  background-image: linear-gradient(90deg, #f2f2f2 0, #e6e6e6);
+  background-image: -webkit-linear-gradient(left, #000000, #e6e6e6);
+  background-image: -o-linear-gradient(left, #000000 0, #e6e6e6 100%);
+  background-image: linear-gradient(90deg, #000000 0, #e6e6e6);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#FFF2F2F2",endColorstr="#FFE6E6E6",GradientType=1);
 }
@@ -4778,4 +4778,6 @@ iframe {
   #hi{
     text-align: justify;
   }
-  
+  .geneziz-logo{
+    width: 200px;
+  }
